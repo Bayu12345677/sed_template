@@ -1,2 +1,7 @@
 # sed_template
-example sed
+
+> sed example simple
+
+```sed
+s/world/: world/g
+```
